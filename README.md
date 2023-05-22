@@ -3,7 +3,7 @@ Upnote is a simple note taking app for quickhand usage
 
 # Images
 
-![upnote-poster](https://github.com/swastik-bose007/Upnote/assets/98341839/de6051d5-906b-4c30-babe-3ff4f8314bb2)
+![upnote-poster](https://github.com/swastik-bose007/Upnote/assets/98341839/8ac246a7-ceb7-4fe9-9707-86e86073a0b2)
 
 ![upnote-poster-2](https://github.com/swastik-bose007/Upnote/assets/98341839/6352d74a-5864-4d60-9320-229b36ae83fd)
 
@@ -27,4 +27,4 @@ https://www.figma.com/proto/UAhyznYBoQfp3Z5Ho9PWJJ/note_taking-_app?page-id=0%3A
 
 # APK Download Link
 
-https://expo.dev/accounts/swastik007/projects/UpNote/builds/1b3d6aa3-5954-4862-893e-11cc452dc75b
+https://expo.dev/accounts/swastik007/projects/UpNote/builds/b7bd9d38-62e5-40d6-a7ca-bd8e170f3690
